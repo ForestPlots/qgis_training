@@ -1,0 +1,7 @@
+# Data Collection via QGIS
+
+A.	Explain overall workflow at a very high level: use your computer and tablet for different instances.
+
+B.	Send full geopackage file ready to upload to tablet. Show to upload to tablet. Fill out. Then save back on laptop. 
+
+C.	Discussion: what is the tablet used for? Horror stories.

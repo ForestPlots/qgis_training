@@ -30,6 +30,8 @@ opts_chunk$set(comment = NA,
 options(scipen=999)
 ```
 
-# Welcome to the course!
+# Welcome!
 
-Insert short intro here
+Eliott to introduce the background of the discussion. 
+Roundtable – everyone introduces their experience with digital data collection or data collection in general.
+Summary of the advantages and risks of using a tablet in the field -> two roads you can use depending on available data (XY)
