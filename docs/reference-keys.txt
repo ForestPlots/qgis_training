@@ -1,3 +1,13 @@
-welcome-to-the-course
-part-introduction
-digital-data-collection
+welcome
+part-setting-up-your-devices
+how-to-set-up-your-laptop
+how-to-set-up-your-tablet
+part-digital-data-collection
+learning-objectives
+upload-the-field-sheet-to-the-tablet
+collect-data-on-the-tablet
+upload-the-collected-data-to-a-computer
+activity-1-digital-data-collection-via-excel
+activity-2-preparing-field-sheets
+activity-3-recommended-format
+data-collection-via-qgis
