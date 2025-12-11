@@ -1,0 +1,19 @@
+# How to set up your laptop
+
+#### Learning Objectives {-}
+- Set up your devices to be able to collect data on a tablet   
+- Stay organised from the beginning  
+
+Eliott to explain which software must be installed on the laptop and have the students check the random pieces that must be configured within QGIS.
+
+## Excel {-}
+
+## QGIS {-}
+
+# How to set up your tablet
+
+Eliott to explain how to make sure the tablet is set up with QGIS, a passcode, etc.
+
+## Excel {-}
+
+## QGIS {-}

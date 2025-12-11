@@ -1,0 +1,15 @@
+# (PART) One time set up {-}
+
+# Accessing ForestPlots
+
+When re-censusing a plot, you need access to the data from the previous censuses in order to make a field sheet to collect the data and to find the plot. All of this data is stored on [ForestPlots.net](ForestPlots.net).
+
+In order to access the data, you must
+
+1. Read the [code of conduct](https://forestplots.net/en/join-forestplots/code-of-conduct),   
+2. Register to have an account on ForestPlots [here](https://forestplots.net/en/join-forestplots/user-gui), and    
+3. Email the associated country data officer to ensure the account is granted and to receive the necessary training to use ForestPlots. *Note: Nika Gorski is the data officer for Africa data.*
+
+Only once you have completed these steps will you be able to access data to ForestPlots and produce field sheets.
+
+If you haven't fully completed these steps, you can still move on to `Module 3 and 4` to install the necessary software on your laptop and tablet.
