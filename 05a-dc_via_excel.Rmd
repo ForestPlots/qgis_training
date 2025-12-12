@@ -1,8 +1,6 @@
-# (PART) **Data Collection via Excel** {-}
+# (PART) **Supplementary Info** {-}
 
-# Collecting data
-
-**MOVE THIS TO SUPPLEMENTARY INFO**
+# Collecting data via Excel
 
 #### Learning Objectives {-}
 

@@ -1,14 +1,23 @@
 # (PART) One time set up {-}
 
-**Some students might not know what ForestPlots, spend time showing how to download a field sheet as revision**
-
 # Accessing ForestPlots
 
 When re-censusing a plot, you need access to the data from the previous censuses in order to make a field sheet, find the plot, and collect the data. You can find everything you need on [ForestPlots.net](ForestPlots.net).
 
 &nbsp; 
 
-In order to access the data, you must
+## What is ForestPlots? {-}
+
+[ForestPlots.net](ForestPlots.net) is a database where you can securely store, manage and analyse tropical forest plot data.
+
+![](docs/img/forestplots_screen.png)
+&nbsp;
+
+[ForestPlots.net](ForestPlots.net) stores and serves stem data and metadata for multi- and single-census plots in forests and savannas, including trees, lianas, species, demography, traits and soils.
+
+## How to access ForestPlots data?
+
+In order to access the ForestPlots data, you must
 
 1. Read the [code of conduct](https://forestplots.net/en/join-forestplots/code-of-conduct),   
 2. Register to have an account on ForestPlots [here](https://forestplots.net/en/join-forestplots/user-gui), and    

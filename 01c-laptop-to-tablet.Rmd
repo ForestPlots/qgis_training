@@ -1,3 +1,37 @@
 # Tablet to Laptop (Vice Versa)
 
-Activity to move pdf or documents between one to other and back
+#### Learning objectives {-}
+
+- Move documents from your laptop onto your tablet  
+- Move documents from your tablet onto your laptop  
+
+&nbsp;
+
+One of the most important steps for collecting data digitally is to be able to access your data. So before diving in to collect data and create a QField project, let's learn how to move documents between your two devices.
+
+**1.** Create a folder on your computer called `QGIS_training`, and save this folder somewhere that you know how to get to and will navigate to often.
+
+**2.** Save this a picture of a very common tree in the Republic of Congo into your `QGIS_training` folder: `r xfun::embed_file("./docs/img/moabi_tree.png",text="moabi_tree.png")`. Do you know what kind of tree it is?
+
+**3.** Connect your tablet to your computer via the cable.
+
+**4.** In your files on the bottom left of your screen, you will see a new device appear. For example, in the image below when an `Apple iPad` was plugged into the device, it appeared.
+
+![](docs/img/plugged-in-device.png)
+&nbsp;
+
+**5.** Copy your `QGIS_training` folder.
+
+**6.** Paste your `QGIS_training` folder into the tablet area of your device.
+
+**7.** Disconnect your tablet from your computer. Is the image on your tablet?
+
+**8.** This time download a pdf document and save it to your computer and move it to the tablet: `r xfun::embed_file("./docs/material/RAINFOR_data_codes_FR.pdf",text="ForestPlot Codes")`. When you are done, disconnect the tablet from the laptop and check that the pdf is on your tablet.
+
+**9.** Now to move a document from the tablet to your computer, you do the same thing but in reverse. With your tablet disconnected from your computer, take a photo of your neighbor (with their permission) and save it to your `QGIS_training` folder with their name.
+
+**10.** Connect your laptop and tablet via the cable and move the image from the tablet's `QGIS_training` folder into the `QGIS_training` folder on your laptop.
+
+**11** Disconnect your laptop and tablet. On your computer do you have an image of a tree, a pdf, and an image of your neighbor in your `QGIS_training` folder? 
+
+And that's how to move documents between your laptop and tablet.

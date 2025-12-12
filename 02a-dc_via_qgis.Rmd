@@ -7,6 +7,6 @@
 ## Activity {-}
 
 Collect data on your tablet from the table.
-*Note __Eliott__ this would mean we would have all the tablets pre-prepared with one survey for them to practice collecting data immediately - which I think would be the best course of action*
+*Note __Eliott__ to prepare a practice project with all XY coordinates filled in for simplicity for first data collection. This practice will show how to only fill in data for trees (not lianas)*
 
 **Discussion**

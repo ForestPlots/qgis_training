@@ -10,7 +10,7 @@ The only way to master a skill is to practice. So let's practice.
 
 _insert name_ has requested that all field teams collect data for a new research project. It is your job to successfully collect this data and send it to the _insert cool group_ for them to upload the data to the database and analyse it.
 
-**1.** On a piece of paper, write down the steps you will take to get the data all the way through sending your collected data to your colleague. *Show to one of the instructors before moving on*
+**1.** On a piece of paper, write down the steps you will take from retrieving the data all the way through sending your collected data to your colleague. *Show to one of the instructors before moving on*
 
 **2.** The plot that you will be working with has previously been re-censused. You can see a plot dump of the data here (insert attached excel document). Based on the information, why will we collect this data via QGIS? *Hint: why did we have to collect data in Module 8 in Excel?*
 

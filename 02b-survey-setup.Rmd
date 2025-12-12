@@ -15,5 +15,5 @@
 
 With a general understanding of how QGIS works, let's create a QGIS package on your device (aka set up your computer with the survey).
 
-**Eliott** to insert step by step instructions (here is where we will have the pre-prepared geopackage linked so that they can download it)
+**Eliott** to insert step by step instructions (here is where we will have the pre-prepared geopackage linked so that they can download it - this example will have XY filled in for simplicity, only about 10 trees, and this should be different from the one in `02a-dc-via-qgis.Rmd`)
 

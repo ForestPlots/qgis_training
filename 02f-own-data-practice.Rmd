@@ -1,0 +1,11 @@
+# Your own QField project
+
+#### Learning Objective {-}
+
+- Create a QField survey for your own plot  
+
+&nbsp;
+
+QField is a really great tool for collecting data, but it is only useful if you can use it for your own data collection. Let's prepare a QField project for your own plot.
+
+**Eliott** insert list of steps for them to follow. We will have prepared at least 2 geopackages for each team to be able to practice with prior to this session.
