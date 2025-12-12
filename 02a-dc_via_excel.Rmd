@@ -1,6 +1,6 @@
-# (PART) Digital Data Collection {-}
+# (PART) **Data Collection via Excel** {-}
 
-# Data Collection via Excel
+# Collecting data
 
 #### Learning Objectives {-}
 
@@ -16,30 +16,13 @@ In order to collect data on your tablet via excel, you need two things:
 
 Hopefully, you have already configured this in `Module 2 and 3`. If you have not set up your devices, return to the section `Setting up your devices`. 
 
-If you already have Excel on your tablet and laptop, then you are ready to prepare your field sheets.
+If you already have Excel on your tablet and laptop, then let's get ready to collect some data.
 
 
-## Preparing field sheets on ForestPlots {.unnumbered}
+## Upload the excel sheet to the tablet {-}
 
-If you already know how to prepare field sheets through the ForestPlots database, skip ahead to the next section. 
+In the field we refer to the physical sheet of paper that we collect data on as the field sheet. For the sake of this course, we are going to refer to the physical field sheet as a field sheet. However, when we collect data with excel, we will call this an Excel sheet (just to help differentiate the field sheet types - this will make more sense later on).
 
-If you need a refresher on how to create field sheets, watch [this video](https://www.youtube.com/watch?v=1Tkdu_Vgilk&feature=youtu.be) or visit page 174 of the [ForestPlots Manual](https://forestplots.net/upload/ManualsEnglish/ForestPlotsManual_2019_sm.pdf).
-
-If you've never been shown how to make field sheets before by a ForestPlots team member, reach out to the data officer of the country that you will be collecting data in and request training *(see Module 2)*.
-
-
-## Preparing field sheets for the tablet {.unnumbered}
-
-Preparing field sheets to collect data on a tablet is very similar to preparing regular field sheets. In fact, the first step is the same: 
-- download a field sheet from ForestPlots,  
-- and format the field sheet to only see the columns that you want to work with.  
-
-The next step is slightly different. Rather than set your print area, now you are going to lock columns that you do not want to accidentally modify in the field.
-
-(**ELIOTT** insert instructions and necessary images to show how to lock columns)
-
-
-## Upload the field sheet to the tablet {-}
 (**ELIOTT**  insert instructions)
 
 
@@ -47,37 +30,23 @@ The next step is slightly different. Rather than set your print area, now you ar
 (**ELIOTT**  insert instructions)
 
 
-## Upload the collected data to a computer {-}
+## Transfer data to a computer {-}
 (**ELIOTT**  insert instructions)
 
+&nbsp; 
 
-## Activity 1: Digital Data Collection via Excel {-}
+## Exercise {-}
 
-**1.** Create a folder for the course.  
+**1.** Create a folder for the course called `QGIS_training`.  
 
-**2.** Download the pre-prepared field sheet on your laptop (insert link here later).  
+**2.** Download the pre-prepared excel sheet on your laptop (insert link to the excel file here later - *need to decide if this will be a correctly locked field sheet or just a regular field sheet with no locking*).  
 
-**3.** Move the field sheet from your laptop onto your tablet.  
+**3.** What do you notice about the excel sheet? Can you type in all of the columns? Is it easy to read?
 
-**4.** Disconnect the laptop and the tablet and fill in the field sheet.  
+**4** Move the excel sheet from your laptop onto your tablet.  
 
-**5.** Save the filled in field sheet on your computer.  
+**5.** Disconnect the laptop and the tablet and fill in the excel sheet.  
 
-*Discussion: how was the experience? What potential errors can you see?*
+**6.** Save the filled in field excel on your computer.  
 
-
-## Activity 2: Preparing field sheets {-}
-
-In your group create your own locked excel field sheet and decide which columns you believe are required for field work.
-
-*Discussion: Compare group field sheets. What are the similarities and the differences among field sheets?*
-
-
-## Activity 3: Recommended format {-}
-
-Based on ForestPlots protocol and our experience, (attach example locked field sheet). And discuss.
-
-**ELIOTT** to add information to this section.
-
-Potentially a second page for this below...
-D.	What does this look like in the field? Charging, protocol after the field work, …
+*Discussion: How was the experience? What potential errors can you see?*

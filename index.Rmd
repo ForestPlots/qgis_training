@@ -32,11 +32,11 @@ options(scipen=999)
 
 # Welcome!
 
-- Eliott to write a brief summary that introduces the course (during the course will say this part out loud.    
+- Eliott to write a brief summary that introduces the course (during the course will say this part out loud).    
 - Roundtable – everyone introduces their experience with digital data collection or data collection in general.    
 
 ## Advantages and Risks of a Tablet {-}
 Eliott to write a summary of the advantages and risks of using a tablet in the field
 
 ## Two Ways of Data Collection {-}
-Eliott to summarise the two roads you can use depending on available data (aka whether you have an XY)  
+Eliott to summarise the two roads you can use depending on available data (aka whether you have an XY) - use the information from the EGC presentation  

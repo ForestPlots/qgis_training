@@ -1,0 +1,19 @@
+# You've got data!
+
+#### Learning objectives {-}
+
+- Get the data safely onto your device or hard drive
+- Understand what the output of the data is
+- What to do next
+
+&nbsp;
+
+So, you've successfully made a QGIS survey and collected your data. Now onto potentially the most important step of this entire process: making sure that you don't lose all of the data that you just collected. 
+
+## Saving data onto a hard drive {-}
+
+**Eliott** to insert step by step guide to save the data from tablet onto hard drive.
+
+## Saving data onto a computer {-}
+
+**Eliott** to insert step by step guide to save the data from tablet onto a computer.

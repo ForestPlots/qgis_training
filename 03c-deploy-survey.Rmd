@@ -1,0 +1,18 @@
+# Deploy the survey
+
+#### Learning objectives {-}
+
+- how to open the survey on the tablet    
+- how to save the data on the computer 
+
+&nbsp;
+
+
+Now you have a QGIS package on your device with all of the trees nicely laid out on your survey. We now need to move this survey onto the tablet:
+
+## Activity {-}
+
+**Eliott** to insert step by step instructions and it can end with, "Now that you've opened your survey on your tablet, you're ready to collect the data."
+
+
+C.	Discussion: what is the tablet used for? Horror stories.

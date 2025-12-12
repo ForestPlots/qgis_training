@@ -1,0 +1,36 @@
+# Preparing field sheets
+
+#### Learning objectives {-}
+
+- Review how to create a field sheet on ForestPlots.  
+- Learn how to lock columns.
+- Practice collecting data on an Excel field sheet.
+
+&nbsp; 
+
+## Preparing field sheets on ForestPlots {.unnumbered}
+
+If you already know how to prepare field sheets through the ForestPlots database, skip ahead to the next section. 
+
+If you need a refresher on how to create field sheets, watch [this video](https://www.youtube.com/watch?v=1Tkdu_Vgilk&feature=youtu.be) or visit page 174 of the [ForestPlots Manual](https://forestplots.net/upload/ManualsEnglish/ForestPlotsManual_2019_sm.pdf).
+
+If you've never been shown how to make field sheets before by a ForestPlots team member, reach out to the data officer of the country that you will be collecting data in and request training *(see Module 2)*.
+
+
+## Preparing excel sheets for the tablet {.unnumbered}
+
+Preparing excel sheets to collect data on a tablet is very similar to preparing regular field sheets. In fact, the first step is the same: 
+- download a field sheet from ForestPlots,  
+- and format the field sheet to only see the columns that you want to work with.  
+
+The next step is slightly different. Rather than set your print area, now you are going to lock columns that you do not want to accidentally modify in the field.
+
+(**ELIOTT** insert instructions and necessary images to show how to lock columns)
+
+&nbsp; 
+
+## Exercise {-}
+
+In your group create your own locked excel field sheet and decide which columns you believe are required for field work.
+
+*Discussion: Compare group field sheets. What are the similarities and the differences among field sheets?*

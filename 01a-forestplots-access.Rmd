@@ -2,7 +2,9 @@
 
 # Accessing ForestPlots
 
-When re-censusing a plot, you need access to the data from the previous censuses in order to make a field sheet to collect the data and to find the plot. All of this data is stored on [ForestPlots.net](ForestPlots.net).
+When re-censusing a plot, you need access to the data from the previous censuses in order to make a field sheet, find the plot, and collect the data. You can find everything you need on [ForestPlots.net](ForestPlots.net).
+
+&nbsp; 
 
 In order to access the data, you must
 

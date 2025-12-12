@@ -1,0 +1,32 @@
+# Excel practice - *plot ABC*
+
+#### Learning objectives {-}
+
+- Practice what you've learned
+
+&nbsp;
+
+The only way to master a skill is to practice. So let's practice. 
+
+_insert name_ has requested that all field teams collect data for a new research project. It is your job to successfully collect this data and send it to the _insert cool group_ for them to upload the data to the database and analyse it.
+
+**1.** On a piece of paper, write down the steps you will take to, firstly, get the data on your device and lastly, send your collected data to your colleague. *Show to one of the instructors before moving on*
+
+**2.** The plot that you will be working with has previously been re-censused. You can see a plot dump of the data here (insert attached excel document). Why is it that we would decide to collect this data via and Excel sheet and not QGIS? *Hint: What information is not very thorough within this plot dump?*
+
+**3.** Create a folder called `ABC_plot_practice` in your `QGIS_training` folder.
+
+**4.** Someone from the ForestPlots team has very kindly downloaded a ForestPlots field sheet for you (aren't they amazing). Save this file in your `ABC_plot_practice` folder.
+
+**5.** Create a locked Excel file following the guidelines that we discussed in `Module 6` and call it `ABC_excel_sheet`.
+
+**6.** Transfer the `ABC_data_collection` to your tablet and collect the data.
+
+**7.** Transfer your collected data back onto your laptop into your `ABC_plot_practice` folder so that you have your original `ABC_data_collection` file and your newly collected data called `ABC_complete`.
+
+**8.** Review the `ABC_complete` file. Do you notice any errors? What post-processing will you have to do?
+
+**9.** Make a copy of the `ABC_complete` excel sheet and name it `ABC_for_upload`. Make any edits that you need to based on your revision.
+
+**10.** Now it's time to celebrate! You just collected data via a tablet. Let's come together as a group and talk about the process.
+

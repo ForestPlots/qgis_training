@@ -1,0 +1,19 @@
+# Setting up the survey
+
+#### Learning objectives {-}
+
+- learn what a QGIS package is  
+- how to set up a QGIS package and the QGIS survey on your laptop   
+
+&nbsp;
+
+## How does QGIS work? {-}
+
+**Eliott** to insert summary of what the process is (at a high level) of having a package on your computer to opening it on the tablet.
+
+## Activity {-}
+
+With a general understanding of how QGIS works, let's create a QGIS package on your device (aka set up your computer with the survey).
+
+**Eliott** to insert step by step instructions (here is where we will have the pre-prepared geopackage linked so that they can download it)
+

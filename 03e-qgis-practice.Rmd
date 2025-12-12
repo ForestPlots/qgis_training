@@ -1,0 +1,32 @@
+# QGIS practice - *plot XYZ*
+
+#### Learning objectives {-}
+
+- Practice what you've learned
+
+&nbsp;
+
+The only way to master a skill is to practice. So let's practice. 
+
+_insert name_ has requested that all field teams collect data for a new research project. It is your job to successfully collect this data and send it to the _insert cool group_ for them to upload the data to the database and analyse it.
+
+**1.** On a piece of paper, write down the steps you will take to get the data all the way through sending your collected data to your colleague. *Show to one of the instructors before moving on*
+
+**2.** The plot that you will be working with has previously been re-censused. You can see a plot dump of the data here (insert attached excel document). Based on the information, why will we collect this data via QGIS? *Hint: why did we have to collect data in Module 8 in Excel?*
+
+**3.** Create a folder called `XYZ_plot_practice` in your `QGIS_training` folder.
+
+**4.** Here is the geopackage that you will need to generate the QGIS survey. Save this file in your `XYZ_plot_practice` folder.
+
+**5.** Create a QGIS package called `XYZ_collection`.
+
+**6.** Transfer the `XYZ_data_collection` package to your tablet and collect the data.
+
+**7.** Transfer your collected data back onto your laptop into your `XYZ_plot_practice` folder so that you have your original `XYZ_data_collection` package, your collected data in a file called `XYZ_data_collected`, and your newly collected data called `XYZ_complete.xlsx`.
+
+**8.** Review the `XYZ_complete` excel file. Do you notice any errors? What post-processing will you have to do?
+
+**9.** Now that you have the data on your computer, what would you do next?
+
+**10.** Show your `XYZ_complete` file to your instructor and show them your answer to number 9.
+

@@ -1,0 +1,17 @@
+# Recommended field sheet
+
+#### Learning objectives {-}
+
+- What should the standard excel sheet format be?   
+
+&nbsp; 
+
+## What data can we collect? {-}
+
+## What data should we collect? {-}
+
+**Eliott** to attach example locked excel sheet based on what he thinks we should collect.
+
+## Exercise {-}
+
+Based on ForestPlots protocol and our experience, create a base excel sheet that we all agree upon as a group. *Use the experience from the previous `Module`.*
