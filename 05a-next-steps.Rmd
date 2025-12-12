@@ -5,3 +5,11 @@
 Here we can insert some next steps about what field leaders and PIs can be doing.
 
 Also, we can add a piece about what we will be doing in the meantime (RShiny, updates, etc.)
+
+insert extra resources for people (potential video that already exists?)
+
+discuss a goal? (measuring number of plots with QGIS, who will be the focal person for each country, how do we bridge the gap between different institutions - sharing formats to go from one to another)
+
+one day people have the autonomy to prepare their own data.
+
+Reference people. 

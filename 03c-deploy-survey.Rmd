@@ -14,5 +14,3 @@ Now you have a QGIS package on your device with all of the trees nicely laid out
 
 **Eliott** to insert step by step instructions and it can end with, "Now that you've opened your survey on your tablet, you're ready to collect the data."
 
-
-C.	Discussion: what is the tablet used for? Horror stories.

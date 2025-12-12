@@ -1,5 +1,7 @@
 # (PART) One time set up {-}
 
+**Some students might not know what ForestPlots, spend time showing how to download a field sheet as revision**
+
 # Accessing ForestPlots
 
 When re-censusing a plot, you need access to the data from the previous censuses in order to make a field sheet, find the plot, and collect the data. You can find everything you need on [ForestPlots.net](ForestPlots.net).

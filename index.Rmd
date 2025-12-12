@@ -40,3 +40,4 @@ Eliott to write a summary of the advantages and risks of using a tablet in the f
 
 ## Two Ways of Data Collection {-}
 Eliott to summarise the two roads you can use depending on available data (aka whether you have an XY) - use the information from the EGC presentation  
+**NOTE: removing other way dont talk about this yet**

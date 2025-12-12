@@ -2,6 +2,8 @@
 
 # Collecting data
 
+**MOVE THIS TO SUPPLEMENTARY INFO**
+
 #### Learning Objectives {-}
 
 - Understand how to collect ForestPlots data using Excel on a tablet
