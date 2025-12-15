@@ -1,7 +1,6 @@
 welcome
 part-one-time-set-up
 accessing-forestplots
-how-to-access-forestplots-data
 how-to-set-up-your-laptop
 how-to-set-up-your-tablet
 tablet-to-laptop-vice-versa

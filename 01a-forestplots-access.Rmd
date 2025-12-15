@@ -15,7 +15,7 @@ When re-censusing a plot, you need access to the data from the previous censuses
 
 [ForestPlots.net](ForestPlots.net) stores and serves stem data and metadata for multi- and single-census plots in forests and savannas, including trees, lianas, species, demography, traits and soils.
 
-## How to access ForestPlots data?
+## How to access ForestPlots data? {-}
 
 In order to access the ForestPlots data, you must
 
