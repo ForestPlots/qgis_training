@@ -22,7 +22,7 @@ GitHub desktop GUI.
 ## Help
 
 Please preferentially create an issue on GitHub for any questions, bugs
-or help needed regarding **qfield_fp**:
+or help needed regarding **qgis_training**:
 <a href="https://github.com/ForestPlots/qgis_training/issues"
 class="uri">https://github.com/ForestPlots/qgis_training/issues</a>.
 Alternatively, you can contact us by email through people in the core
