@@ -1,12 +1,8 @@
 # How to set up your laptop
-
-#### Learning Objectives {-}
 Whether you have a ForestPlots account, you now need to set up your computer and your tablet.
 Your will use your computer to create the surveys and your tablet to execute them.
-
 While seemingly boring, the next steps are crucial: if executed properly, they will save us a tremendous amount of issues. Therefore, please take your time so we can stay organised from the beginning.
 
-## QGIS {-}
 QGIS is a geographic information system software.  for In order to install QGIS on your computer, please follow these steps:
 
 1. Click [here](https://qgis.org/download/) to access the download package. If you feel generous, you can make a contribution to QGIS or skip to download (orange button *Skip it and go to download*).
@@ -43,6 +39,5 @@ QGIS is a geographic information system software.  for In order to install QGIS 
 
 Eliott to explain how to make sure the tablet is set up with QGIS, a passcode, etc.
 
-## Excel {-}
 
 ## QGIS {-}
