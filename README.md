@@ -11,3 +11,24 @@ Additional resources:
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+
+
+## Contribution
+
+You can contribute to the project by forking the repository on github
+and cloning the fork to your machine using several options, including
+GitHub desktop GUI.
+
+## Help
+
+Please preferentially create an issue on GitHub for any questions, bugs
+or help needed regarding **qfield_fp**:
+<a href="https://github.com/ForestPlots/qgis_training/issues"
+class="uri">https://github.com/ForestPlots/qgis_training/issues</a>.
+Alternatively, you can contact us by email through people in the core
+group (see below).
+
+## Participants
+
+- Eliott Maurent (eliott.maurent@outlook.fr)
+- Nika Gorski (N.M.Gorski@leeds.ac.uk)
