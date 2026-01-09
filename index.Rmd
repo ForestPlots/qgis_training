@@ -30,13 +30,28 @@ opts_chunk$set(comment = NA,
 options(scipen=999)
 ```
 
-# Welcome!
+# Welcome to ForestPlots course on digital data collection!
 
-- Eliott to write a brief summary that introduces the course (during the course will say this part out loud).    
-- Roundtable – everyone introduces their experience with digital data collection or data collection in general.    
+This course aims at providing principal researchers and field leaders the tools to collect data digitally in the field. It relies on QGIS and QField softwares, respectfully for computers and tablets.
+
+*Can everyone please introduce their experience with digital data collection or data collection in general?*
+
 
 ## Advantages and Risks of a Tablet {-}
-Eliott to write a summary of the advantages and risks of using a tablet in the field
+*Can everyone please share the advantages and risks they could face with digital data collection?*
+
+Advantages | Risks
+-----------|------------------
+Time saver | Misoneism
+Less prone to error | Electronic waste
+Workflow more fluid | Cost
+More flexible | Data loss (including theft)
+Less paper | Difficult access to electricity
+Data spatialisation |
+
+
 
 ## Summary of Digital Data Collection {-}
-Eliott to summarise digital data collection using QField - use the information from the EGC presentation (no reason to touch on the XY bit yet since we will do it all in QField and nothing on an excel sheet)
+Now that are aware of the advantages and risks of digital data collection, we can start the technical training, structured around the main components of digital data collection:
+
+![](docs/img/general_workflow.png)
