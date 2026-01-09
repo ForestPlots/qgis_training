@@ -52,6 +52,6 @@ Data spatialisation |
 
 
 ## Summary of Digital Data Collection {-}
-Now that are aware of the advantages and risks of digital data collection, we can start the technical training, structured around the main components of digital data collection:
+Now that we are aware of the advantages and risks of digital data collection, we can start the technical training, structured around the main components of digital data collection:
 
 ![](docs/img/general_workflow.png)

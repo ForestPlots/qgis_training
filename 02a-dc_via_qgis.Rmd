@@ -1,6 +1,6 @@
 # (PART) **Data Collection via QGIS** {-}
 
-# Using QGIS survey
+# Using QField survey
 
 **Eliott** to insert screenshots of tablet and explain each piece of the survey. Only focusing on how to use the survey and tablet
 

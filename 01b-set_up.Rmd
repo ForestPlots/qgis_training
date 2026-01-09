@@ -6,8 +6,6 @@
 
 Eliott to explain which software must be installed on the laptop and have the students check the random pieces that must be configured within QGIS.
 
-## Excel {-}
-
 ## QGIS {-}
 
 # How to set up your tablet
