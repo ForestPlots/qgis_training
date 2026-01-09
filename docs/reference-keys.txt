@@ -5,7 +5,7 @@ how-to-set-up-your-laptop
 how-to-set-up-your-tablet
 tablet-to-laptop-vice-versa
 part-data-collection-via-qgis
-using-qgis-survey
+using-qfield-survey
 setting-up-the-survey
 deploy-the-survey
 youve-got-data

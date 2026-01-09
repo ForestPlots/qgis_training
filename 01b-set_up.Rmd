@@ -1,12 +1,43 @@
 # How to set up your laptop
 
 #### Learning Objectives {-}
-- Set up your devices to be able to collect data on a tablet   
-- Stay organised from the beginning  
+Whether you have a ForestPlots account, you now need to set up your computer and your tablet.
+Your will use your computer to create the surveys and your tablet to execute them.
 
-Eliott to explain which software must be installed on the laptop and have the students check the random pieces that must be configured within QGIS.
+While seemingly boring, the next steps are crucial: if executed properly, they will save us a tremendous amount of issues. Therefore, please take your time so we can stay organised from the beginning.
 
 ## QGIS {-}
+QGIS is a geographic information system software.  for In order to install QGIS on your computer, please follow these steps:
+
+1. Click [here](https://qgis.org/download/) to access the download package. If you feel generous, you can make a contribution to QGIS or skip to download (orange button *Skip it and go to download*).
+
+![](docs/img/qgis_download1.png)
+
+2. Once you passed the donation page, download the most recent **Long Term Release** (currently **Download LTR 3.40**). Do not download the *Latest release*, it is not needed for what we do and is more likely to come with bugs.
+
+![](docs/img/qgis_download2.png)
+
+3. Once you have downloaded the QGIS installation file, open it and follow the instructions. We advise you to keep the default and recommended set-up options.
+
+4. Congratulations, you have installed QGIS on your computer! You can now launch it (be patient, QGIS may take some time to launch) and should soon see a similar interface:
+
+![](docs/img/qgis_setup.png)
+5. Click on the *Extensions* menu and select *Installer/Gérer les extensions*.
+
+![](docs/img/qgis_qfield_sync1.png)
+
+6. Type 'QField Sync' in the research bar of the pop-up window.
+
+![](docs/img/qgis_qfield_sync2.png)
+
+7. Tick the box near *QField Sync*, just below the research bar, and close the pop-up window.
+
+![](docs/img/qgis_qfield_sync3.png)
+
+8. Click on the *Extensions* menu, a *QField Sync* sub-menu should now be present.
+
+![](docs/img/qgis_qfield_sync4.png)
+
 
 # How to set up your tablet
 
