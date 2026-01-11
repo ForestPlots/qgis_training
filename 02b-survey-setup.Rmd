@@ -94,32 +94,5 @@ We learnt to collect data on QField but how do you create the survey in the firs
 **29.** Copy the QField package and paste it at the root of your tablet.
 ![](docs/img/survey_setup25.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Activity {-}
-
-With a general understanding of how QGIS works, let's create a QGIS package on your device (aka set up your computer with the survey).
-
-**Eliott** to insert step by step instructions (here is where we will have the pre-prepared geopackage linked so that they can download it - this example will have XY filled in for simplicity, only about 10 trees, and this should be different from the one in `02a-dc-via-qgis.Rmd`)
+You can now proceed open your project on the tablet (see [Using QField survey] for a reminder on how to proceed) and collect data!
 
