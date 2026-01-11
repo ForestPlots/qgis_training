@@ -1,12 +1,11 @@
 # (PART) **Data Collection via QGIS** {-}
 
 # Using QField survey
+In the last sections, you learnt about [ForestPlots](ForestPlots.net), installed [QGIS](https://qgis.org/) on your computer and [QField](https://qfield.org/) on your field tablet. It is now time to learn how to collect data in the field using QField. 
 
-**Eliott** to insert screenshots of tablet and explain each piece of the survey. Only focusing on how to use the survey and tablet
+Your tablets have been pre-loaded with a QField survey so you can have directly have a hands-on experience. Here is you get access to it:
+
+
 
 ## Activity {-}
-
-Collect data on your tablet from the table.
-*Note __Eliott__ to prepare a practice project with all XY coordinates filled in for simplicity for first data collection. This practice will show how to only fill in data for trees (not lianas)*
-
-**Discussion**
+1. 
