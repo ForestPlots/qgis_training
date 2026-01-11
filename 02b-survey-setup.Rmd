@@ -30,6 +30,8 @@ We learnt to collect data on QField but how do you create the survey in the firs
 ![](docs/img/survey_setup6.png)
 
 **8.** Click on the *Projet* menu and then *Propriétés*.
+
+&nbsp;
 ![](docs/img/survey_setup7.png)
 
 **9.** In the *Général* tab, verify that length and area units follow the metric system.
@@ -44,9 +46,65 @@ We learnt to collect data on QField but how do you create the survey in the firs
 **12.** In *Format de fichier*, select the right separator. The table columns should be conserved, you can check in the section *Echantillon de données*. Verify that *Détecter les types de champs* is unticked. Verify that *Pad de géométrie (juste la table)* is ticked.
 ![](docs/img/survey_setup11.png)
 
-**13.** Click on Ajouter*.
+**13.** Click on *Ajouter*.
 
 **14.** Repeat for all the *.csv* files in the `layers` subfolder.
+
+**15.** Then go to the *GeoPackage* tab on the right-hand panel and click on *Nouveau*. 
+![](docs/img/survey_setup12.png)
+
+**16.** Select `treesheet_training.gpkg` from the `layers` subfolder in the pop-up window.
+![](docs/img/survey_setup13.png)
+
+**17.** Click on the *Connecter* button, then on *treesheet_training* (highlighted in blue) and finally on *Ajouter*.
+![](docs/img/survey_setup14.png)
+
+**18.** Click right on the *treesheet_training* layer and then click on *Propriétés*.
+![](docs/img/survey_setup15.png)
+
+**19.** Click on *Style* in the left bottom corner of the pop-up window (it does not matter in which tab) and then click on *Charger le style*.
+![](docs/img/survey_setup16.png)
+
+**20.** Click on the three dots symbol in the pop-up window.
+![](docs/img/survey_setup17.png)
+
+**21.** Select `training_style.qml` and then click on *Ouvrir*.
+![](docs/img/survey_setup18.png)
+
+**22.** You are now back to the previous pop-up window where you need to click on *Charger le style*.
+![](docs/img/survey_setup19.png)
+
+**23.** You are back to the *Propriétés* window, click on *Ok*.
+![](docs/img/survey_setup20.png)
+
+**24.* Your now have to format your QGIS project for export: click on *Extensions*, then *QFieldSync*, and finally *Configurer le projet actuel*.
+![](docs/img/survey_setup21.png)
+
+**25.* Go to *Export par câble* and check that every layer is classified as *Copy* in the *Action* section.
+![](docs/img/survey_setup22.png)
+
+**26.** Click on *Extensions*, then *QFieldSync*, and finally *Paquet pour QField*.
+![](docs/img/survey_setup23.png)
+
+**27.** Verify that the QField package will be stored as closest as your computer root as possible, then click on *Créer*.
+![](docs/img/survey_setup24.png)
+
+**28.** Connect the tablet to your laptop and allow sharing of the tablet data, then go to your QField package location.
+
+**29.** Copy the QField package and paste it at the root of your tablet.
+![](docs/img/survey_setup25.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
