@@ -1,19 +1,64 @@
-# You've got data!
+# You've got data to store!
 
 #### Learning objectives {-}
 
 - Get the data safely onto your device or hard drive
 - Understand what the output of the data is
-- What to do next
 
 &nbsp;
 
 So, you've successfully made a QGIS survey and collected your data. Now onto potentially the most important step of this entire process: making sure that you don't lose all of the data that you just collected. 
 
 ## Saving data onto a hard drive {-}
+You spent a tough day collecting data in the field, it is now time to store this data in several places to mitigate risks.
 
-**Eliott** to insert step by step guide to save the data from tablet onto hard drive.
+**1.** Open the Play Store, type 'fv file manager app' in the research bar and click on *Install* in the right panel.
+![](docs/img/ssd_backup1.jpg)
+**2.** Once **FV File Manager** is installed, you can click on *Ouvrir*.
+![](docs/img/ssd_backup2.jpg)
+
+**3.** In the notification pop-up, click *Don't allow*.
+![](docs/img/ssd_backup3.jpg)
+
+**4.** Click *Do not consent* in the personal data use pop-up window.
+![](docs/img/ssd_backup4.jpg)
+
+**5.** Click on the *Files* symbol in the right-hand side.
+
+**6.** Connect your hard drive.
+
+**7.** Go to your hard drive location, here *T7 Shield*. Click on the three verticals dots in the right-hand corner and select *New folder* in the drop-down menu.
+![](docs/img/ssd_backup6.jpg)
+
+**8.** Give a name with today's date in YYYYMMDD format, for instance *20260112_sauvegarde*. Click *OK*.
+![](docs/img/ssd_backup7.jpg)
+
+**9.** Click on *Galaxy Tab Active4 Pro* on the left panel.
+![](docs/img/ssd_backup8.jpg)
+
+**10.** Click on *Android* folder.
+![](docs/img/ssd_backup9.jpg)
+
+
+**11.** Click on *data* folder.
+![](docs/img/ssd_backup10.jpg)
+
+**12.** Click on *ch.opengis.qfield* folder.
+![](docs/img/ssd_backup11.jpg)
+
+**13.** Click on *files* folder.
+![](docs/img/ssd_backup12.jpg)
+
+**14.** Click on *Imported projects* folder.
+![](docs/img/ssd_backup13.jpg)
+
+**15.** Select `qgis_training_example2` by keeping your finger on it, click on the three dots in the top right corner and click on *Copy to*.
+![](docs/img/ssd_backup14.jpg)
+
+**16.** Go to the folder you created at step 8 on your hard drive (today `20260112_sauvegarde`) and click on *COPY* in the bottom left corner.
+![](docs/img/ssd_backup15.jpg)
+
+**17.** Your day's work is now safely stored in the hard drive. This step must be repeated every night and on a second hard drive.
+![](docs/img/ssd_backup16.jpg)
 
 ## Saving data onto a computer {-}
-
-**Eliott** to insert step by step guide to save the data from tablet onto a computer.
