@@ -10,4 +10,13 @@ insert extra resources for people (potential video that already exists?)
 
 discuss a goal: how many plots will we each measure with QGIS by the end of the year, who will be the focal person for each country, how do we bridge the gap between different institutions - sharing formats to go from one to another, one day people have the autonomy to prepare their own data.
 
+#### Pratical advice
+* Ideally, do not put the tablet on the ground. If you do, try to do it mindfully as a black tablet can be hard to find in a dark understorey.
+
+* If you have to put the tablet on the ground, place it vertically againt a tree: it is less likely that someone will step on it.
+
+* Tie a fluo ribbon to the tablet: it will be easier to find it if you lose in the forest.
+
+* The tablets we use come with a stylus: if you do not use it, it is better to keep it at the office to avoid its loss in the field.
+
 *this should be reformatted*

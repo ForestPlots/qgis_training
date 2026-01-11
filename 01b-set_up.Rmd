@@ -58,7 +58,7 @@ While seemingly boring, the next steps are crucial: if executed properly, they w
 **8.** Once installed, *Open* QField.
 ![](docs/img/tablet_setup7.jpg)
 
-9. Welcome to QField, your computer and tablet configuration is over, we can now start collecting data!
+**9.** Welcome to QField, your computer and tablet configuration is over, we can now start collecting data!
 ![](docs/img/tablet_setup8.jpg)
 
 
