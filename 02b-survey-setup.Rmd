@@ -8,8 +8,56 @@
 &nbsp;
 
 ## How does QGIS work? {-}
+We learnt to collect data on QField but how do you create the survey in the first place?
 
-**Eliott** to insert summary of what the process is (at a high level) of having a package on your computer to opening it on the tablet.
+**1.** Create a new folder `qgis_training_example2` in the `Documents` section of your file explorer.
+![](docs/img/survey_setup1.png)
+
+**2.** Create a subfolder named `layers` in the folder you created at the previous step.
+![](docs/img/survey_setup2.png)
+
+**3.** Download the following files: `r xfun::embed_file("./docs/qgis_training_example2_docs/list_flags.csv",text="Tree flags")`, `r xfun::embed_file("./docs/qgis_training_example2_docs/list_diameter.csv",text="Diameter values")`, `r xfun::embed_file("./docs/qgis_training_example2_docs/list_pom.csv",text="POM values")`, `r xfun::embed_file("./docs/qgis_training_example2_docs/training_style.qml",text="Style")`, `r xfun::embed_file("./docs/qgis_training_example2_docs/treesheet_training.gpkg",text="Fieldsheet")`.
+
+**4.** Copy them in the `layers`subfolder you created at step 2.
+![](docs/img/survey_setup4.png)
+
+**5.** Open QGIS.
+
+**6.** Click on the *Projet* menu and then *Enregistrer sous...*.
+![](docs/img/survey_setup5.png)
+
+**7.** Save your project under the name `qgis_training_example2.qgz` in the `qgis_training_example2` folder created at step 1. 
+![](docs/img/survey_setup6.png)
+
+**8.** Click on the *Projet* menu and then *Propriétés*.
+![](docs/img/survey_setup7.png)
+
+**9.** In the *Général* tab, verify that length and area units follow the metric system.
+![](docs/img/survey_setup8.png)
+
+**10.** Click on the *Couche* menu, then *Ajouter une couche* and finally *Ajouter une couche de texte délimité...*.
+![](docs/img/survey_setup9.png)
+
+**11.** Click on the three points facing *Nom de fichier*. Another window pops-up, go to the `layers` subfolder you created at step 4 and select the first *.csv* file.
+![](docs/img/survey_setup10.png)
+
+**12.** In *Format de fichier*, select the right separator. The table columns should be conserved, you can check in the section *Echantillon de données*. Verify that *Détecter les types de champs* is unticked. Verify that *Pad de géométrie (juste la table)* is ticked.
+![](docs/img/survey_setup11.png)
+
+**13.** Click on Ajouter*.
+
+**14.** Repeat for all the *.csv* files in the `layers` subfolder.
+
+
+
+
+
+
+
+
+
+
+
 
 ## Activity {-}
 

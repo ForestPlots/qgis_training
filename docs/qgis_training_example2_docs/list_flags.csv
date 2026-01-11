@@ -1,0 +1,23 @@
+F1;F1desc;F2PhysicalCOD;F2PhysicalCODdesc;F2NumberTrees;F2NumberTreesDesc;F2COD;F2CODdesc;F3;F3desc;F5;F5desc
+a;a - Normal, utilisez ce code en lui-meme, sauf si un arbre est une recrue ou un arbre normal avec des troncs multiples (voir le code  n  et le code  h );a;a - Mort debout;p;p - Mort seul;j;j - Anthropogenique;0;0 - Mesure normale avec DBHmetre;0;0 - Estimation (oeil)
+b;b - Tronc casse et repoussant, ou tout au moins le phloème / xylème est vivant. Notez dans la colonne de commentaires à quelle hauteur l arbre est casse;b;b - Casse (tronc casse);q;q - Deces multiples;n;n - Brule;1;1 - Relascope;2;2 - Manuel avec trigonometrie
+c;c - Incline >=10%. Ce code ne peut pas etre utilise avec le code  d ;c;c - Deracine (racines vers le haut);r;r - Inconnu;o;o - Foudre;2;2 - Appareil photo digital;3;3 - Manuel avec trigonometrie (bien entraine)
+d;d - Tombe (par ex. par terre). Ce code ne peut pas etre utilise avec le code  c ;d;d - Mort debout ou casse, probablement mort debout (pas deracine);;;s;s - On ne sait pas si l arbre est tue ou a tue;3;3 - Estimation a l oeil;4;4 - Laser ou distance ultrasonique de l arbre, avec senseur electronique pour mesurer l inclinaison
+e;e - Cannelures et /ou fenestre;e;e - Mort debout ou casse, probablement mort casse (pas deracine);;;t;t - Tueur d au moins un autre arbre (diametre >10 cm);4;4 - Echelle avec DBHmetre;5;5 - Laser hypsometrique pour des mesures directement sous l arbre, avec fonction de filtre last return (dernier retour)
+f;f - Creux;f;f - Mort debout ou casse (pas deracine);;;u;u - Par un autre arbre, pas d autres informations;5;5 - Inconnue;6;6 - Mesure directe (par exemple grimper, couper, tour adjacent...)
+g;g - Pourri et ou champignons lignicoles;g;g - Casse ou deracine, probablement deracine;;;v;v - Par un autre arbre mort casse;6;6 - Dendrometre;;
+h;h - Tiges multiples. Chaque tige de plus de 99 mm est numerotee. Ce code doit toujours etre accompagne par un autre code (par exemple si l arbre est casse et il a des tiges multiples, utilisez  bh );h;h - Casse ou deracine, probablement casse;;;w;w - Par un autre arbre qui deracine;;;;
+i;i - Peu ou pas de feuilles;i;i - Casse ou deracine (pas debout);;;x;x - Branches tombees d un arbre mort debout;;;;
+j;j - Brule;k;k - Disparu (localisation trouvee, arbre recherche mais pas trouve);;;y;y - Branches tombees d un arbre vivant;;;;
+k;k - Casse;l;l - Probablement mort (localisation de l arbre n est pas trouvee, par manque de coordonnees, cartes pauvres,…);;;z;z - Etrangleur;;;;
+l;l - Lianes >= 10 cm de diamètre sur le tronc ou dans la couronne;m;m - Inconnue;;;2;2 - Liane;;;;
+m;m - Couvert de lianes. Utilisez si au moins 50% de la couronne de l arbre est couverte de lianes, meme si aucune liane a un diamètre de 10 cm;;;;;3;3 - Poids d un etrangleur/liane [l arbre est mort casse ou tombe];;;;
+n;n - Recrue. Utilisez ce code toujours avec un autre code - par ex., si l arbre est une recrue et normal, utilisez le code  an, Si l arbre est une recrue et casse, utilisez le code  bn ;;;;;4;4 - Competition avec etrangleur/liane [l arbre est mort debout];;;;
+o;o - Endommage par la foudre;;;;;5;5 - Elephant;;;;
+p;p - Coupe;;;;;6;6 - Termites;;;;
+q;q - Ecorce pelante (ecorce detachee /à peler);;;;;7;7 - Vent;;;;
+s;s - Avec etrangleur;;;;;;;;;;
+w;w - Blessures et/ou le cambium expose;;;;;;;;;;
+x;x - Endommage par un elephant;;;;;;;;;;
+y;y - Endommage par termites;;;;;;;;;;
+z;z - Productivite faible (presque mort ou malade);;;;;;;;;;
