@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Module 8 You’ve got data to store! | QGIS Training</title>
+  <meta name="description" content="A resource &amp; workbook for learning how to collect ForestPlots data digitally" />
+  <meta name="generator" content="bookdown 0.43 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Module 8 You’ve got data to store! | QGIS Training" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="A resource &amp; workbook for learning how to collect ForestPlots data digitally" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Module 8 You’ve got data to store! | QGIS Training" />
+  
+  <meta name="twitter:description" content="A resource &amp; workbook for learning how to collect ForestPlots data digitally" />
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="setting-up-the-survey.html"/>
+<link rel="next" href="qgis-practice---plot-xyz.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome to ForestPlots course on digital data collection!</a>
+<ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#advantages-and-risks-of-a-tablet"><i class="fa fa-check"></i>Advantages and Risks of a Tablet</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#summary-of-digital-data-collection"><i class="fa fa-check"></i>Summary of Digital Data Collection</a></li>
+</ul></li>
+<li class="part"><span><b>I One time set up</b></span></li>
+<li class="chapter" data-level="2" data-path="accessing-forestplots.html"><a href="accessing-forestplots.html"><i class="fa fa-check"></i><b>2</b> Accessing ForestPlots</a>
+<ul>
+<li class="chapter" data-level="" data-path="accessing-forestplots.html"><a href="accessing-forestplots.html#what-is-forestplots"><i class="fa fa-check"></i>What is ForestPlots?</a></li>
+<li class="chapter" data-level="" data-path="accessing-forestplots.html"><a href="accessing-forestplots.html#how-to-access-forestplots-data"><i class="fa fa-check"></i>How to access ForestPlots data?</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="how-to-set-up-your-laptop.html"><a href="how-to-set-up-your-laptop.html"><i class="fa fa-check"></i><b>3</b> How to set up your laptop</a></li>
+<li class="chapter" data-level="4" data-path="how-to-set-up-your-tablet.html"><a href="how-to-set-up-your-tablet.html"><i class="fa fa-check"></i><b>4</b> How to set up your tablet</a></li>
+<li class="chapter" data-level="5" data-path="tablet-to-laptop-vice-versa.html"><a href="tablet-to-laptop-vice-versa.html"><i class="fa fa-check"></i><b>5</b> Tablet to Laptop (Vice Versa)</a></li>
+<li class="part"><span><b>II <strong>Data Collection via QGIS</strong></b></span></li>
+<li class="chapter" data-level="6" data-path="using-qfield-survey.html"><a href="using-qfield-survey.html"><i class="fa fa-check"></i><b>6</b> Using QField survey</a></li>
+<li class="chapter" data-level="7" data-path="setting-up-the-survey.html"><a href="setting-up-the-survey.html"><i class="fa fa-check"></i><b>7</b> Setting up the survey</a>
+<ul>
+<li class="chapter" data-level="" data-path="setting-up-the-survey.html"><a href="setting-up-the-survey.html#how-does-qgis-work"><i class="fa fa-check"></i>How does QGIS work?</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="youve-got-data-to-store.html"><a href="youve-got-data-to-store.html"><i class="fa fa-check"></i><b>8</b> You’ve got data to store!</a>
+<ul>
+<li class="chapter" data-level="" data-path="youve-got-data-to-store.html"><a href="youve-got-data-to-store.html#saving-data-onto-a-hard-drive"><i class="fa fa-check"></i>Saving data onto a hard drive</a></li>
+<li class="chapter" data-level="" data-path="youve-got-data-to-store.html"><a href="youve-got-data-to-store.html#saving-data-onto-a-computer"><i class="fa fa-check"></i>Saving data onto a computer</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="qgis-practice---plot-xyz.html"><a href="qgis-practice---plot-xyz.html"><i class="fa fa-check"></i><b>9</b> QGIS practice - <em>plot XYZ</em></a></li>
+<li class="chapter" data-level="10" data-path="your-own-qfield-project.html"><a href="your-own-qfield-project.html"><i class="fa fa-check"></i><b>10</b> Your own QField project</a></li>
+<li class="part"><span><b>III Protocols</b></span></li>
+<li class="chapter" data-level="" data-path="before-field-work.html"><a href="before-field-work.html"><i class="fa fa-check"></i>Before field work</a></li>
+<li class="chapter" data-level="" data-path="work-in-the-field.html"><a href="work-in-the-field.html"><i class="fa fa-check"></i>Work in the field</a></li>
+<li class="chapter" data-level="" data-path="after-field-work.html"><a href="after-field-work.html"><i class="fa fa-check"></i>After field work</a></li>
+<li class="part"><span><b>IV Next Steps</b></span></li>
+<li class="chapter" data-level="11" data-path="wrap-up.html"><a href="wrap-up.html"><i class="fa fa-check"></i><b>11</b> Wrap Up</a></li>
+<li class="part"><span><b>V <strong>Supplementary Info</strong></b></span></li>
+<li class="chapter" data-level="12" data-path="collecting-data-via-excel.html"><a href="collecting-data-via-excel.html"><i class="fa fa-check"></i><b>12</b> Collecting data via Excel</a>
+<ul>
+<li class="chapter" data-level="" data-path="collecting-data-via-excel.html"><a href="collecting-data-via-excel.html#set-up-your-computer"><i class="fa fa-check"></i>Set up your computer</a></li>
+<li class="chapter" data-level="" data-path="collecting-data-via-excel.html"><a href="collecting-data-via-excel.html#upload-the-excel-sheet-to-the-tablet"><i class="fa fa-check"></i>Upload the excel sheet to the tablet</a></li>
+<li class="chapter" data-level="" data-path="collecting-data-via-excel.html"><a href="collecting-data-via-excel.html#collect-data-on-the-tablet"><i class="fa fa-check"></i>Collect data on the tablet</a></li>
+<li class="chapter" data-level="" data-path="collecting-data-via-excel.html"><a href="collecting-data-via-excel.html#transfer-data-to-a-computer"><i class="fa fa-check"></i>Transfer data to a computer</a></li>
+<li class="chapter" data-level="" data-path="collecting-data-via-excel.html"><a href="collecting-data-via-excel.html#exercise"><i class="fa fa-check"></i>Exercise</a></li>
+</ul></li>
+<li class="chapter" data-level="13" data-path="preparing-excel-field-sheets.html"><a href="preparing-excel-field-sheets.html"><i class="fa fa-check"></i><b>13</b> Preparing Excel field sheets</a>
+<ul>
+<li class="chapter" data-level="" data-path="preparing-excel-field-sheets.html"><a href="preparing-excel-field-sheets.html#preparing-field-sheets-on-forestplots"><i class="fa fa-check"></i>Preparing field sheets on ForestPlots</a></li>
+<li class="chapter" data-level="" data-path="preparing-excel-field-sheets.html"><a href="preparing-excel-field-sheets.html#preparing-excel-sheets-for-the-tablet"><i class="fa fa-check"></i>Preparing excel sheets for the tablet</a></li>
+<li class="chapter" data-level="" data-path="preparing-excel-field-sheets.html"><a href="preparing-excel-field-sheets.html#exercise-1"><i class="fa fa-check"></i>Exercise</a></li>
+</ul></li>
+<li class="chapter" data-level="14" data-path="recommended-excel-field-sheet.html"><a href="recommended-excel-field-sheet.html"><i class="fa fa-check"></i><b>14</b> Recommended Excel field sheet</a>
+<ul>
+<li class="chapter" data-level="" data-path="recommended-excel-field-sheet.html"><a href="recommended-excel-field-sheet.html#what-data-can-we-collect"><i class="fa fa-check"></i>What data can we collect?</a></li>
+<li class="chapter" data-level="" data-path="recommended-excel-field-sheet.html"><a href="recommended-excel-field-sheet.html#what-data-should-we-collect"><i class="fa fa-check"></i>What data should we collect?</a></li>
+<li class="chapter" data-level="" data-path="recommended-excel-field-sheet.html"><a href="recommended-excel-field-sheet.html#exercise-2"><i class="fa fa-check"></i>Exercise</a></li>
+</ul></li>
+<li class="chapter" data-level="15" data-path="excel-practice---plot-abc.html"><a href="excel-practice---plot-abc.html"><i class="fa fa-check"></i><b>15</b> Excel practice - <em>plot ABC</em></a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">QGIS Training</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="youve-got-data-to-store" class="section level1 hasAnchor" number="8">
+<h1><span class="header-section-number">Module 8</span> You’ve got data to store!<a href="youve-got-data-to-store.html#youve-got-data-to-store" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="learning-objectives-2" class="section level4 unnumbered hasAnchor">
+<h4>Learning objectives<a href="youve-got-data-to-store.html#learning-objectives-2" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li>Get the data safely onto your device or hard drive</li>
+<li>Understand what the output of the data is</li>
+</ul>
+<p> </p>
+<p>So, you’ve successfully made a QGIS survey and collected your data. Now onto potentially the most important step of this entire process: making sure that you don’t lose all of the data that you just collected.</p>
+</div>
+<div id="saving-data-onto-a-hard-drive" class="section level2 unnumbered hasAnchor">
+<h2>Saving data onto a hard drive<a href="youve-got-data-to-store.html#saving-data-onto-a-hard-drive" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>You spent a tough day collecting data in the field, it is now time to store this data in several places to mitigate risks.</p>
+<p><strong>1.</strong> Open the Play Store, type ‘fv file manager app’ in the research bar and click on <em>Install</em> in the right panel.
+<img src="docs/img/ssd_backup1.jpg" />
+<strong>2.</strong> Once <strong>FV File Manager</strong> is installed, you can click on <em>Ouvrir</em>.
+<img src="docs/img/ssd_backup2.jpg" /></p>
+<p><strong>3.</strong> In the notification pop-up, click <em>Don’t allow</em>.
+<img src="docs/img/ssd_backup3.jpg" /></p>
+<p><strong>4.</strong> Click <em>Do not consent</em> in the personal data use pop-up window.
+<img src="docs/img/ssd_backup4.jpg" /></p>
+<p><strong>5.</strong> Click on the <em>Files</em> symbol in the right-hand side.</p>
+<p><strong>6.</strong> Connect your hard drive.</p>
+<p><strong>7.</strong> Go to your hard drive location, here <em>T7 Shield</em>. Click on the three verticals dots in the right-hand corner and select <em>New folder</em> in the drop-down menu.
+<img src="docs/img/ssd_backup6.jpg" /></p>
+<p><strong>8.</strong> Give a name with today’s date in YYYYMMDD format, for instance <em>20260112_sauvegarde</em>. Click <em>OK</em>.
+<img src="docs/img/ssd_backup7.jpg" /></p>
+<p><strong>9.</strong> Click on <em>Galaxy Tab Active4 Pro</em> on the left panel.
+<img src="docs/img/ssd_backup8.jpg" /></p>
+<p><strong>10.</strong> Click on <em>Android</em> folder.
+<img src="docs/img/ssd_backup9.jpg" /></p>
+<p><strong>11.</strong> Click on <em>data</em> folder.
+<img src="docs/img/ssd_backup10.jpg" /></p>
+<p><strong>12.</strong> Click on <em>ch.opengis.qfield</em> folder.
+<img src="docs/img/ssd_backup11.jpg" /></p>
+<p><strong>13.</strong> Click on <em>files</em> folder.
+<img src="docs/img/ssd_backup12.jpg" /></p>
+<p><strong>14.</strong> Click on <em>Imported projects</em> folder.
+<img src="docs/img/ssd_backup13.jpg" /></p>
+<p><strong>15.</strong> Select <code>qgis_training_example2</code> by keeping your finger on it, click on the three dots in the top right corner and click on <em>Copy to</em>.
+<img src="docs/img/ssd_backup14.jpg" /></p>
+<p><strong>16.</strong> Go to the folder you created at step 8 on your hard drive (today <code>20260112_sauvegarde</code>) and click on <em>COPY</em> in the bottom left corner.
+<img src="docs/img/ssd_backup15.jpg" /></p>
+<p><strong>17.</strong> Your day’s work is now safely stored in the hard drive. This step must be repeated every night and on a second hard drive.
+<img src="docs/img/ssd_backup16.jpg" /></p>
+</div>
+<div id="saving-data-onto-a-computer" class="section level2 unnumbered hasAnchor">
+<h2>Saving data onto a computer<a href="youve-got-data-to-store.html#saving-data-onto-a-computer" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><strong>1.</strong> Go to the tablet <code>Internal storage</code> in your computer file explorer and click on the <em>Android</em> folder.
+<img src="docs/img/computer_backup1.png" /></p>
+<p><strong>2.</strong> Click on <em>data</em> folder.
+<img src="docs/img/computer_backup2.png" /></p>
+<p><strong>3.</strong> Click on <em>ch.opengis.qfield</em> folder.
+<img src="docs/img/computer_backup3.png" /></p>
+<p><strong>4.</strong> Click on <em>files</em> folder.
+<img src="docs/img/computer_backup4.png" /></p>
+<p><strong>5.</strong> Click on <em>Imported projects</em> folder.
+<img src="docs/img/computer_backup5.png" /></p>
+<p><strong>6.</strong> Copy <code>qgis_training_example2</code>.
+<img src="docs/img/computer_backup6.png" /></p>
+<p><strong>7.</strong> Go to the folder where you initially created your QGIS project. Create a <code>dump</code> folder.
+<img src="docs/img/computer_backup7.png" /></p>
+<p><strong>8.</strong> Paste the <code>qgis_training_example2</code> from step 6 in the <code>dump</code> folder.
+<img src="docs/img/computer_backup8.png" /></p>
+<p><strong>9.</strong> Double-click on the QGIS project to open it.
+<img src="docs/img/computer_backup9.png" /></p>
+<p><strong>10.</strong> Once QGIS is launched, open the <em>Extensions</em> menu, select <em>QFieldSync</em> and then <em>Synchroniser depuis QField</em>.
+<img src="docs/img/computer_backup10.png" /></p>
+<p><strong>11.</strong> Click on the three dots symbol in the top right corner of the pop-up window.
+<img src="docs/img/computer_backup11.png" /></p>
+<p><strong>12.</strong> Select the folder you pasted at step 8 then click on <em>Sélectionner un dossier</em>.
+<img src="docs/img/computer_backup12.png" /></p>
+<p><strong>13.</strong> Click on <em>Synchronisation</em>.
+<img src="docs/img/computer_backup13.png" /></p>
+<p><strong>14.</strong> Point colours has changed: the data has arrived.
+<img src="docs/img/computer_backup14.png" /></p>
+<p><strong>15.</strong> Click right on the <em>treesheet_training</em> layer, select <em>Exporter</em> and then <em>Sauvegarder les entités sous…</em>.
+<img src="docs/img/computer_backup15.png" /></p>
+<p><strong>16.</strong> Verify that <em>XSLX</em> is selected in the <em>Format</em> menu, then click on the three dots symbol.
+<img src="docs/img/computer_backup16.png" /></p>
+<p><strong>17.</strong> Write the future file name beginning by today’s date, for instance <code>20260112_qgis_training_example2.xlsx</code>, then click on <em>Enregistrer</em>.
+<img src="docs/img/computer_backup17.png" /></p>
+<p><strong>18.</strong> Click <em>OK</em>. You can go to the storage location and verify that you got your data back!
+<img src="docs/img/computer_backup18.png" /></p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="setting-up-the-survey.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="qgis-practice---plot-xyz.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+  "sharing": {
+    "github": false,
+    "facebook": true,
+    "twitter": true,
+    "linkedin": false,
+    "weibo": false,
+    "instapaper": false,
+    "vk": false,
+    "whatsapp": false,
+    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+  },
+  "fontsettings": {
+    "theme": "white",
+    "family": "sans",
+    "size": 2
+  },
+  "edit": null,
+  "history": {
+    "link": null,
+    "text": null
+  },
+  "view": {
+    "link": null,
+    "text": null
+  },
+  "download": ["my-book.pdf", "my-book.epub"],
+  "search": {
+    "engine": "fuse",
+    "options": null
+  },
+  "toc": {
+    "collapse": "section"
+  }
+});
+});
+</script>
+
+</body>
+
+</html>

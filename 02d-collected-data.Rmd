@@ -62,3 +62,56 @@ You spent a tough day collecting data in the field, it is now time to store this
 ![](docs/img/ssd_backup16.jpg)
 
 ## Saving data onto a computer {-}
+**1.** Go to the tablet `Internal storage` in your computer file explorer and click on the *Android* folder.
+![](docs/img/computer_backup1.png)
+
+**2.** Click on *data* folder.
+![](docs/img/computer_backup2.png)
+
+**3.** Click on *ch.opengis.qfield* folder.
+![](docs/img/computer_backup3.png)
+
+**4.** Click on *files* folder.
+![](docs/img/computer_backup4.png)
+
+**5.** Click on *Imported projects* folder.
+![](docs/img/computer_backup5.png)
+
+**6.** Copy `qgis_training_example2`.
+![](docs/img/computer_backup6.png)
+
+**7.** Go to the folder where you initially created your QGIS project. Create a `dump` folder.
+![](docs/img/computer_backup7.png)
+
+**8.** Paste the `qgis_training_example2` from step 6 in the `dump` folder.
+![](docs/img/computer_backup8.png)
+
+**9.** Double-click on the QGIS project to open it.
+![](docs/img/computer_backup9.png)
+
+**10.** Once QGIS is launched, open the *Extensions* menu, select *QFieldSync* and then *Synchroniser depuis QField*.
+![](docs/img/computer_backup10.png)
+
+**11.** Click on the three dots symbol in the top right corner of the pop-up window.
+![](docs/img/computer_backup11.png)
+
+**12.** Select the folder you pasted at step 8 then click on *Sélectionner un dossier*.
+![](docs/img/computer_backup12.png)
+
+**13.** Click on *Synchronisation*.
+![](docs/img/computer_backup13.png)
+
+**14.** Point colours has changed: the data has arrived.
+![](docs/img/computer_backup14.png)
+
+**15.** Click right on the *treesheet_training* layer, select *Exporter* and then *Sauvegarder les entités sous...*.
+![](docs/img/computer_backup15.png)
+
+**16.** Verify that *XSLX* is selected in the *Format* menu, then click on the three dots symbol.
+![](docs/img/computer_backup16.png)
+
+**17.** Write the future file name beginning by today's date, for instance `20260112_qgis_training_example2.xlsx`, then click on *Enregistrer*.
+![](docs/img/computer_backup17.png)
+
+**18.** Click *OK*. You can go to the storage location and verify that you got your data back!
+![](docs/img/computer_backup18.png)
