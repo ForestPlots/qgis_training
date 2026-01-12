@@ -7,11 +7,11 @@
 
 &nbsp;
 
-One of the most important steps for collecting data digitally is to be able to access your data. So before diving in to collect data and create a QField project, let's learn how to move documents between your two devices.
+One of the most important steps for collecting data digitally is to access your data. So before diving in to collect data and create a QField project, let's learn how to move documents between your two devices.
 
 **1.** Create a folder on your computer called `QGIS_training`, and save this folder somewhere that you know how to get to and will navigate to often.
 
-**2.** Save this a picture of a very common tree in the Republic of Congo into your `QGIS_training` folder: `r xfun::embed_file("./docs/img/moabi_tree.png",text="moabi_tree.png")`. Do you know what kind of tree it is?
+**2.** Save this a picture of a very common tree in the Republic of Congo into your `QGIS_training` folder: `r xfun::embed_file("./docs/img/tree.png",text="tree.png")`. Do you know what kind of tree it is?
 
 **3.** Connect your tablet to your computer via the cable.
 

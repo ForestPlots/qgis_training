@@ -77,10 +77,10 @@ We learnt to collect data on QField but how do you create the survey in the firs
 **23.** You are back to the *Propriétés* window, click on *Ok*.
 ![](docs/img/survey_setup20.png)
 
-**24.* Your now have to format your QGIS project for export: click on *Extensions*, then *QFieldSync*, and finally *Configurer le projet actuel*.
+**24.** Your now have to format your QGIS project for export: click on *Extensions*, then *QFieldSync*, and finally *Configurer le projet actuel*.
 ![](docs/img/survey_setup21.png)
 
-**25.* Go to *Export par câble* and check that every layer is classified as *Copy* in the *Action* section.
+**25.** Go to *Export par câble* and check that every layer is classified as *Copy* in the *Action* section.
 ![](docs/img/survey_setup22.png)
 
 **26.** Click on *Extensions*, then *QFieldSync*, and finally *Paquet pour QField*.

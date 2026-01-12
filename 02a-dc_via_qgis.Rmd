@@ -1,7 +1,7 @@
 # (PART) **Data Collection via QGIS** {-}
 
 # Using QField survey
-In the last sections, you learnt about [ForestPlots](ForestPlots.net), installed [QGIS](https://qgis.org/) on your computer and [QField](https://qfield.org/) on your field tablet. It is now time to learn how to collect data in the field using QField. 
+In the last sections, you learned about [ForestPlots](ForestPlots.net), installed [QGIS](https://qgis.org/) on your computer and [QField](https://qfield.org/) on your field tablet. It is now time to learn how to collect data in the field using QField. 
 
 Your tablets have been pre-loaded with a QField survey so you can have directly have a hands-on experience. Here is you get access to it:
 
@@ -38,5 +38,5 @@ Your tablets have been pre-loaded with a QField survey so you can have directly 
 **11.** Click on *1* in the right-hand panel.
 ![](docs/img/mocksurvey11.jpg)
 
-**12.** Click on the pencil symbol in the top-right corner, you can start typing data in!
+**12.** Click on the pencil symbol in the top-right corner, you can start typing in data!
 ![](docs/img/mocksurvey12.jpg)
