@@ -8,7 +8,7 @@ Also, we can add a piece about what we will be doing in the meantime (RShiny, up
 
 insert extra resources for people (potential video that already exists?)
 
-discuss a goal: how many plots will we each measure with QGIS by the end of the year, who will be the focal person for each country, how do we bridge the gap between different institutions - sharing formats to go from one to another, one day people have the autonomy to prepare their own data.
+discuss a goal: how many plots will we each measure with QGIS by the end of the year, who will be the focal person for each country, how do we bridge the gap between different institutions - sharing formats to go from one to another, one day people have the autonomy to prepare their own data, what is essential to be on the tablet, what would make it easier for you, what did you think.
 
 #### Pratical advice
 * Ideally, do not put the tablet on the ground. If you do, try to do it mindfully as a black tablet can be hard to find in a dark understorey.
