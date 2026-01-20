@@ -7,6 +7,7 @@ tablet-to-laptop-vice-versa
 part-data-collection-via-qgis
 using-qfield-survey
 setting-up-the-survey
+configuration-du-questionnaire
 youve-got-data-to-store
 qgis-practice---plot-xyz
 your-own-qfield-project

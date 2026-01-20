@@ -1,0 +1,121 @@
+# Configuration du questionnaire
+
+#### Objectifs d'apprentissage {-}
+
+- Découvrir ce qu'est un package QGIS
+
+- Apprendre à configurer un package QGIS et le questionnaire QGIS sur votre ordinateur portable
+
+
+## Comment fonctionne QGIS? {-}
+Nous avons appris à collecter des données sur QField, mais comment créer le questionnaire?
+
+**1.** Créez un nouveau dossier nommé `qgis_training_example2` dans le dossier `Documents` de votre explorateur de fichiers.
+
+![](docs/img/survey_setup1.png)
+
+**2.** Créez un sous-dossier nommé `layers` dans le dossier créé à l'étape précédente.
+
+![](docs/img/survey_setup2.png)
+
+**3.** Téléchargez les fichiers suivants: `r xfun::embed_file("./docs/qgis_training_example2_docs/list_flags.csv",text="Tree flags")`, `r xfun::embed_file("./docs/qgis_training_example2_docs/list_diameter.csv",text="Diameter values")`, `r xfun::embed_file("./docs/qgis_training_example2_docs/list_pom.csv",text="POM values")`, `r xfun::embed_file("./docs/qgis_training_example2_docs/training_style.qml",text="Style")`, `r xfun::embed_file("./docs/qgis_training_example2_docs/treesheet_training.gpkg",text="Fieldsheet")`.
+
+**4.** Copiez-les dans le sous-dossier `layers` créé à l'étape 2.
+
+![](docs/img/survey_setup4.png)
+
+**5.** Ouvrez QGIS.
+
+**6.** Cliquez sur le menu *Projet* puis sur *Enregistrer sous...*.
+
+![](docs/img/survey_setup5.png)
+
+**7.** Enregistrez votre projet sous le nom `qgis_training_example2.qgz` dans le dossier `qgis_training_example2` créé à l'étape 1.
+
+![](docs/img/survey_setup6.png)
+
+**8.** Cliquez sur le menu *Projet*, puis sur *Propriétés*.
+
+
+
+![](docs/img/survey_setup7.png)
+
+**9.** Dans l'onglet *Général*, vérifiez que les unités de longueur et de surface sont bien exprimées en unités métriques.
+
+![](docs/img/survey_setup8.png)
+
+**10.** Cliquez sur le menu *Couche*, puis sur *Ajouter une couche* et enfin sur *Ajouter une couche de texte délimité...*.
+
+![](docs/img/survey_setup9.png)
+
+**11.** Cliquez sur les trois points en face de *Nom de fichier*. Une nouvelle fenêtre s'ouvre; accédez au sous-dossier `layers` créé à l'étape4 et sélectionnez le premier fichier *.csv*.
+
+![](docs/img/survey_setup10.png)
+
+**12.** Dans *Format de fichier*, sélectionnez le séparateur approprié. Les colonnes du tableau doivent être conservées; vous pouvez le vérifier dans la section *Échantillon de données*. Assurez-vous que *Détecter les types de champs* est décoché. Assurez-vous que *Pad de géométrie (juste la table)* est coché.
+
+![](docs/img/survey_setup11.png)
+
+**13.** Cliquez sur *Ajouter*.
+
+**14.** Répétez l'opération pour tous les fichiers *.csv* du sous-dossier `layers`.
+
+**15.** Accédez ensuite à l'onglet *GeoPackage* dans le panneau de droite et cliquez sur *Nouveau*.
+
+![](docs/img/survey_setup12.png)
+
+**16.** Sélectionnez `treesheet_training.gpkg` dans le sous-dossier `layers` de la fenêtre contextuelle.
+
+![](docs/img/survey_setup13.png)
+
+**17.** Cliquez sur le bouton *Connecter*, puis sur *treesheet_training* (en bleu) et enfin sur *Ajouter*.
+
+![](docs/img/survey_setup14.png)
+
+**18.** Faites un clic droit sur la couche *treesheet_training*, puis cliquez sur *Propriétés*.
+
+![](docs/img/survey_setup15.png)
+
+**19.** Cliquez sur *Style* en bas à gauche de la fenêtre contextuelle (peu importe l'onglet), puis sur *Charger le style*.
+
+![](docs/img/survey_setup16.png)
+
+**20.** Cliquez sur l'icône à trois points dans la fenêtre contextuelle.
+
+![](docs/img/survey_setup17.png)
+
+**21.** Sélectionnez `training_style.qml`, puis cliquez sur *Ouvrir*.
+
+![](docs/img/survey_setup18.png)
+
+**22.** Vous revenez à la fenêtre contextuelle précédente; cliquez de nouveau sur *Charger le style*.
+
+![](docs/img/survey_setup19.png)
+
+**23.** Vous êtes de retour dans la fenêtre *Propriétés*. Cliquez sur *OK*.
+
+![](docs/img/survey_setup20.png)
+
+**24.** Vous devez maintenant formater votre projet QGIS pour l'exportation: cliquez sur *Extensions*, puis sur *QFieldSync*, et enfin sur *Configurer le projet actuel*.
+
+![](docs/img/survey_setup21.png)
+
+**25.** Allez dans *Exporter par câble* et vérifiez que chaque couche est bien définie sur *Copie* dans la section *Action*.
+
+![](docs/img/survey_setup22.png)
+
+**26.** Cliquez sur *Extensions*, puis sur *QFieldSync*, et enfin sur *Paquet pour QField*.
+
+![](docs/img/survey_setup23.png)
+
+**27.** Vérifiez que le package QField est enregistré au plus près de la racine de votre ordinateur, puis cliquez sur *Créer*.
+
+![](docs/img/survey_setup24.png)
+
+**28.** Connectez la tablette à votre ordinateur portable et autorisez le partage de données, puis accédez à l'emplacement du package QField.
+
+**29.** Copiez le package QField et collez-le à la racine de votre tablette.
+
+![](docs/img/survey_setup25.png)
+
+Vous pouvez maintenant ouvrir votre projet sur la tablette (consultez la section [Utilisation du sondage QField] pour un rappel de la procédure) et collecter les données !
