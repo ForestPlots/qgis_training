@@ -1,22 +1,26 @@
 # (PART) Next Steps {-}
 
-# Wrap Up
+#### Wrap Up
 
-Here we can insert some next steps about what field leaders and PIs can be doing.
+Congratulations! You’re now equipped to create your own digital field sheets. Before you head out to collect data, here are a few practical tips we’ve learned along the way:
 
-Also, we can add a piece about what we will be doing in the meantime (RShiny, updates, etc.)
 
-insert extra resources for people (potential video that already exists?)
+#### Practical advice {-}
 
-discuss a goal: how many plots will we each measure with QGIS by the end of the year, who will be the focal person for each country, how do we bridge the gap between different institutions - sharing formats to go from one to another, one day people have the autonomy to prepare their own data, what is essential to be on the tablet, what would make it easier for you, what did you think.
+* Try not to place the tablet on the ground. If you must, do so deliberately—dark tablets disappear easily in a shaded understorey. 
 
-#### Pratical advice
-* Ideally, do not put the tablet on the ground. If you do, try to do it mindfully as a black tablet can be hard to find in a dark understorey.
+* When placing the tablet down, lean it vertically against a tree. It’s less likely to be stepped on and easier to see.  
 
-* If you have to put the tablet on the ground, place it vertically againt a tree: it is less likely that someone will step on it.
+* Attach a fluorescent ribbon to the tablet. It makes it much easier to relocate if misplaced in the forest.  
 
-* Tie a fluo ribbon to the tablet: it will be easier to find it if you lose in the forest.
+* If your tablet comes with a stylus and you don’t plan to use it, leave it at the office to avoid losing it in the field.  
 
-* The tablets we use come with a stylus: if you do not use it, it is better to keep it at the office to avoid its loss in the field.
 
-*this should be reformatted*
+#### Next Steps {-}
+
+As you continue to census plots and collect data using tablets, we want to make the process as smooth as possible. If you discover useful tricks, have suggestions, or encounter challenges, please share them with us—your feedback is essential to improving this workflow.
+
+This QGIS Field workflow is not meant to be siloed. Feel free to share it with colleagues. While it is designed specifically for teams storing data in ForestPlots, the general approach can still benefit others.
+In parallel, we are developing a website (an RShiny app) that will allow you to generate your own geopackages directly from ForestPlots data. This will put the entire data-collection pipeline under your control. Our goal is to empower you with tools that support your research, and your input is a critical part of making that happen.
+
+If you’d like to collaborate with us, we’d be delighted to hear from you. In the meantime, enjoy your new skill—and have fun collecting data digitally in the field!

@@ -14,7 +14,6 @@ your-own-qfield-project
 part-protocols
 part-next-steps
 wrap-up
-pratical-advice
 part-supplementary-info
 collecting-data-via-excel
 preparing-excel-field-sheets
